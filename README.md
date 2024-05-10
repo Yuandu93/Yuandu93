@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 
 <!--
 **Yuandu93/Yuandu93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm 2</h1>
+<h1 align="center">Hi 👋, I'm Danny Du</h1>
 <h3 align="center">A passionate data scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=123&label=Profile%20views&color=0e75b6&style=flat" alt="123" /> </p>
+
 
 - 🔭 I’m currently working on **2**
 
@@ -41,3 +41,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=123&show_icons=true&locale=en" alt="123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=123&" alt="123" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=123&label=Profile%20views&color=0e75b6&style=flat" alt="123" /> </p>
