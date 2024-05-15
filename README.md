@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **natural language processing (NLP) projects and developing large language models (LLMs) to enhance healthcare solutions.**
 
-- 🌱 I’m currently learning **the latest advancements in machine learning and deep learning techniques, especially their innovative uses in the healthcare industry**
+- 🌱 I’m currently learning **Generative AI, especially their innovative uses in the healthcare industry**
 
 - 📫 How to reach me **ydu245@uwo.ca**
 
