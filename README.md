@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **2**
+- 🔭 I’m currently working on **natural language processing (NLP) projects and developing large language models (LLMs) to enhance healthcare solutions.**
 
-- 🌱 I’m currently learning **123**
+- 🌱 I’m currently learning **the latest advancements in machine learning and deep learning techniques, especially their innovative uses in the healthcare industry**
 
-- 📫 How to reach me **y**
+- 📫 How to reach me **ydu245@uwo.ca**
 
 - 📄 Know about my experiences [21351](21351)
 
