@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Danny Du</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center">Data Science Enthusiast</h3>
 
 
 
@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ydu245@uwo.ca**
 
-- 📄 Know about my experiences [21351](21351)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/danny-yuan-du-b6b3101a7/)
+
+- ⚡ Fun fact **Data scientist by day, passionate baker by night."**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
