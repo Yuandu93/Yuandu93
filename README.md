@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Danny Du</h1>
+<h1 align="center">Hi 👋, I'm Danny Du 😄</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
 
