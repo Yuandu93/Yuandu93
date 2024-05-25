@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Danny Du 😄</h1>
+<h1 align="center">Hi 👋, I'm Danny (Yuan) Du 😄</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
 
 
-- 🔭 I’m currently working on **natural language processing (NLP) projects and developing large language models (LLMs) to enhance healthcare solutions.**
+- 🔭 I’m currently working on **natural language processing (NLP) projects and developing large language models (LLMs) to enhance solutions.**
 
-- 🌱 I’m currently learning **Generative AI, especially their innovative uses in the healthcare industry**
+- 🌱 I’m currently learning **Generative AI, especially their innovative uses in the real-world**
 
 - 📫 How to reach me **ydu245@uwo.ca**
 
