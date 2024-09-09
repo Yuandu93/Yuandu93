@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **natural language processing (NLP) projects and developing large language models (LLMs) to enhance healthcare solutions.**
+- 🔭 I’m interested in **natural language processing (NLP) projects and developing large language models (LLMs) to enhance healthcare solutions.**
 
 - 🌱 I’m currently learning **Generative AI, especially their innovative uses in the real-world**
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/danny-yuan-du-b6b3101a7/)
 
-- ⚡ Fun fact **Data scientist by day, passionate baker by night.**
+- ⚡ Fun fact **Data scientist by day, passionate baker by night. :)**
 
 
 <h3 align="left">Connect with me:</h3>
